@@ -1,12 +1,12 @@
 #!/bin/sh
 #
 # checkn1x odysseyra1n script
-# https://asineth.gq (original script by coolstar)
-#
+# (original script by coolstar)
+# bug fixes and pasted by: Pwned4ever2 
 clear
 cat << !
 This script is experimental and may break things.
-## Checkn1x will provide no support if things go wrong.
+## Checkrx1n will provide no support if things go wrong.
 ## Tweak/device-related issues should be reported to the respective devs.
 This will migrate your device to Procursus/Odyssey.
 * Restoring your rootfs first is suggested.
