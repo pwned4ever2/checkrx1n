@@ -3,7 +3,7 @@ checkra1n for linux with odysseyra1n
 
 Linux-based distribution for jailbreaking iOS devices w/ checkra1n.
 
-Download Etcher and the ISO from releases.(https://github.com/asineth0/checkn1x)
+Download Etcher and the ISO from releases.
 Open the .iso you downloaded in Etcher.
 Write it to your USB drive.
 Reboot and enter your BIOS's boot menu.
